@@ -1,0 +1,1 @@
+# python_project_egg_template
